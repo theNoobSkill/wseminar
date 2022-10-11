@@ -1,0 +1,8 @@
+name: w_seminar
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyter
+  - tqdm
+  - matplotlib
