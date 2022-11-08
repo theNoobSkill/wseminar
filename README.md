@@ -19,17 +19,17 @@ Zur Installation wird empfohlen, die [Anaconda Distribution](https://www.anacond
 
 1. Repository klonen:
 ```bash
-   git clone https://github.com/theNoobSkill/w_seminar.git
+   git clone https://github.com/theNoobSkill/wseminar.git
 ```
 2. Eine virtuelle Umgebung erstellen und aktivieren:
 ```bash
-   conda create -n w_seminar python=3.10
-   conda activate w_seminar
+   conda create -n wseminar python=3.10
+   conda activate wseminar
 ```
 3. [PyTorch and Torchvision](https://pytorch.org/get-started/locally/) installieren.
 4. In das Verzeichnis wechseln:
 ```bash
-   cd w_seminar
+   cd wseminar
 ```
 5. Abhängigkeiten installieren:
 ```bash
@@ -40,11 +40,11 @@ Zur Installation wird empfohlen, die [Anaconda Distribution](https://www.anacond
 
 1. In das Verzeichnis wechseln:
 ```bash
-   cd w_seminar
+   cd wseminar
 ```
 2. Die virtuelle Umgebung aktivieren:
 ```bash
-   conda activate w_seminar
+   conda activate wseminar
 ```
 3. Das Skript laufen lassen:
 ```bash
